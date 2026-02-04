@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" row-gap=15px>
   
-<a href="https://linkedin.com/in/lakshay kumar sudhera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshay kumar sudhera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lakshay-kumar-sudhera-133b35389/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshay kumar sudhera" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@lakshaysudhera31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lakshaysudhera31" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/lakshay sudhera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lakshay sudhera" height="30" width="40" /></a>
 </p>
