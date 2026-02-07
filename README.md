@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshay-sudhera&show_icons=true&locale=en" alt="lakshay-sudhera" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-sudhera&theme=default" alt="lakshay-sudhera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-sudhera" alt="lakshay-sudhera" /></p>
