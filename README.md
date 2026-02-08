@@ -30,4 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshay-sudhera&show_icons=true&locale=en" alt="lakshay-sudhera" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-sudhera" alt="lakshay-sudhera"  loading="lazy" /></p>
+  <div margin="10px"><img style="filter: invert(100%);" padding="10px" align="center" src="https://ghchart.rshah.org/lakshay-sudhera" alt="lakshay-sudhera" loading="lazy"/></div>
+  <br>
+  
+<div margin="10px"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-sudhera" alt="lakshay-sudhera"  loading="lazy" />
+</div>
