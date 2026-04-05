@@ -37,7 +37,7 @@
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushv-nitj&theme=dracula&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay-sudhera&theme=dracula&hide_border=true"/>
 </p>
 <hr style="height:3px; border:none; background-color:white; margin:20px 0;">
  
