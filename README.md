@@ -33,8 +33,12 @@
  <!-- <div margin="10px"><img style="filter: invert(100%);" padding="10px" align="center" src="https://ghchart.rshah.org/lakshay-sudhera" alt="lakshay-sudhera" loading="lazy"/></div>
   <br> -->
   
-![snake gif](https://github.com/lakshay-sudhera/lakshay-sudhera/blob/main/workflows/snake_crawl.svg)
+<!-- ![snake gif](https://github.com/lakshay-sudhera/lakshay-sudhera/blob/main/workflows/snake_crawl.svg) -->
 
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushv-nitj&theme=dracula&hide_border=true"/>
+</p>
 <hr style="height:3px; border:none; background-color:white; margin:20px 0;">
  
 
