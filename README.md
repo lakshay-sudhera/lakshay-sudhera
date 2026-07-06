@@ -35,18 +35,18 @@
   
 <!-- ![snake gif](https://github.com/lakshay-sudhera/lakshay-sudhera/blob/main/workflows/snake_crawl.svg) -->
 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay-sudhera&theme=dracula&hide_border=true"/>
-</p>
-<hr style="height:3px; border:none; background-color:white; margin:20px 0;">
+<!-- ## 📈 Contribution Activity -->
+<!-- <p align="center"> -->
+  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay-sudhera&theme=dracula&hide_border=true"/> -->
+<!-- </p> -->
+<!-- <hr style="height:3px; border:none; background-color:white; margin:20px 0;"> -->
  
 
 
 <hr style="height:3px; border:none; background-color:white; margin:20px 0;">
   
-<div margin="10px"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-sudhera" alt="lakshay-sudhera"  loading="lazy" />
+<!-- <div margin="10px"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-sudhera" alt="lakshay-sudhera"  loading="lazy" />
 </div>
 ## 3D Contributions
 
-![](https://raw.githubusercontent.com/<lakshay-sudhera>/<lakshay-sudhera>/main/profile-3d-contrib/profile-night-rainbow.svg)
+![](https://raw.githubusercontent.com/<lakshay-sudhera>/<lakshay-sudhera>/main/profile-3d-contrib/profile-night-rainbow.svg) -->
